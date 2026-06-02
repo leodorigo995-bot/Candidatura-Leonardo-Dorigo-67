@@ -17,9 +17,10 @@
 }
 .dorigoTech{
     background-color: rgba(128, 128, 128, 0.541);
-    margin: 0px 755px 0px 0px;
+    margin: 1px 600px 1px 10px;
     border: solid orange 1px;
     text-align: center;
+    border-radius: 100px
     ;
 }
 .propostas{
