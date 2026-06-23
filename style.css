@@ -1,12 +1,17 @@
+body{
+    background-color: azure;
+}
+
 .voteemMim{
     margin:  30px 60px 50px;
     font-size: 50px;
+    background-color: beige;
     
 }
 .Biografia{
     margin: 30px 30px;
-    border: solid brown;
-    color: rgb(221, 221, 221);
+    border: solid rgb(221, 184, 184);
+    color: rgb(248, 248, 248);
     font-size: 30px;
     text-align:justify;
     
@@ -27,6 +32,8 @@
     color:darkred;
     font-size: 35px;
     text-align: center;
+    background-image:
+    url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi_JF_oV6f0mfV_9Kc38piEBhuza809q-HHg&s)
 }
 .proposta1{
     font-size:30px ;
