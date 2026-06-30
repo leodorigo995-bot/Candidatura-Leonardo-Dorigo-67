@@ -3,6 +3,8 @@ body{
 }
 
 .voteemMim{
+    position: relative;
+    left: 50px;
     margin:  30px 60px 50px;
     font-size: 50px;
     background-color: beige;
@@ -29,6 +31,7 @@ body{
     ;
 }
 .propostas{
+    border-radius: 20px;
     color:darkred;
     font-size: 35px;
     text-align: center;
@@ -39,4 +42,12 @@ body{
     font-size:30px ;
     color: rgb(255, 255, 255);
     margin: 20px 30px 20px 60px;
+}
+.Educacao{
+    border: solid gray;
+    position: relative;
+    left: 200px;
+    
+    width: 430px;
+    padding: 30px;
 }
