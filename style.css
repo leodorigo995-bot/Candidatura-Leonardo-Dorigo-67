@@ -68,11 +68,14 @@ body{
     color: rgb(255, 255, 255);
     margin: 20px 30px 20px 60px;
 }
-.Educacao{
+.proposta-canto{
     border: solid gray;
     position: relative;
     left: 200px;
     
     width: 430px;
     padding: 30px;
+}
+.corrupcaoZero{
+
 }
