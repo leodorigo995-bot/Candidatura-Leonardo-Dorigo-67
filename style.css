@@ -3,12 +3,13 @@ body{
 }
 .barra-cima{
     border-bottom: 7px solid lightpink;
-    width: 1000px;
+    width: 2000px;
     display: flex;
-    position: relative;
+    position: fixed;
     top: -10px;
     left: -10px;
-    right: 0px;
+    z-index: 2;
+    
     background-color: beige;
 }
 .partido{
@@ -30,13 +31,14 @@ body{
 .voteemMim{
     position: relative;
     left: 50px;
-    top: 0px;
+    top: 100px;
     font-size: 50px;
     background-color: beige;
     
+    
 }
 .Biografia{
-    margin: 30px 30px;
+    margin: 150px 30px 100px 30px;
     border: solid rgb(221, 184, 184);
     color: rgb(248, 248, 248);
     font-size: 30px;
